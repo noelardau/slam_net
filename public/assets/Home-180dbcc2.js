@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s,b as c}from"./index-19e08e3d.js";const r={},_={align:"center"},a=s("img",{src:c,alt:"logo",width:"400",height:"400",style:{"border-radius":"50%"}},null,-1),n=[a];function i(d,l){return t(),o("p",_,n)}const m=e(r,[["render",i]]);export{m as default};
