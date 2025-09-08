@@ -1,7 +1,7 @@
 
 const db = require("mongoose")
 
-db.connect("mongodb://127.0.0.1:27017/test").then(()=>console.log("ok"))
+db.connect("mongodb+srv://noelardau_db_user:pCQbUxjGyESfNjCZ@cluster0.6tpl8oy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0").then(()=>console.log("ok"))
 
 
 
